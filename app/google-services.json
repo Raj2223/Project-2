@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98300718935",
+    "project_id": "dma-1-f898b",
+    "storage_bucket": "dma-1-f898b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98300718935:android:a537772801ba47a4e15812",
+        "android_client_info": {
+          "package_name": "com.smallacademy.userroles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98300718935-l729ouiguo3mg9b238t1bc3vkqk4r4j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxk68Iz0qhOfIu0GsLNbKAWrOBWRDXdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98300718935-l729ouiguo3mg9b238t1bc3vkqk4r4j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
